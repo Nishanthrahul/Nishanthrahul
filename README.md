@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishanthR
-- 👀 I’m interested in Data science, Machine learning,Web development
-- 🌱 I’m currently learning Python,Java
+- 👀 I’m interested in Data , Machine learning,Web development
+- 🌱 I’m currently learning ,JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me >>> Instagram:@nishanthrahul
                      >>> Linkedin:https://www.linkedin.com/in/nishanth-r-70927a202
